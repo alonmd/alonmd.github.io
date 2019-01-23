@@ -1,5 +1,3 @@
-## Google AI Impact Award Screenshot Page
-
 
 ### (1 of 2) Screenshot from our existing dashboard. Arthroscopy is selected.
 Our dashboard currently contains opioid consumption data on 142 different surgery types.
