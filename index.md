@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Google AI Impact Award Screenshot Page
 
 You can use the [editor on GitHub](https://github.com/alonmd/alonmd.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Dashboard Example](https://alonmd.github.com/arthroscopy.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
