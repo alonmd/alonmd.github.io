@@ -6,5 +6,5 @@ Our dashboard currently contains opioid consumption data on 142 different surger
 
 
 ### (2 of 2) Screenshot of auto-generated discharge form currently on github.
-Design students at University of Indiana designed this discharge form from the database.
+Version 1.0 of the discharge form using the database.
 ![Design Example](https://alonmd.github.io/discharge.png)
